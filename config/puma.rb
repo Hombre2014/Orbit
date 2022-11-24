@@ -19,7 +19,7 @@ port ENV.fetch("PORT") { 3000 }
 
 # Specifies the `environment` that Puma will run in.
 #
-environment ENV.fetch("RAILS_ENV") { ENV['RACK_ENV'] } || { "production" }
+environment ENV.fetch("RAILS_ENV") { ENV['RACK_ENV'] || "production" }
 # Original line before changed in lesson 70 from the video course was:
 # environment ENV.fetch("RAILS_ENV") { "development" }
 
