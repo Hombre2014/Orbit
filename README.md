@@ -61,7 +61,7 @@ To start with clean database use:
 ## Testing
 
 `cd orbit`</br>
-<!-- run `rspec` -->
+run `rails test`
 
 ## Author
 
