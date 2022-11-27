@@ -30,7 +30,7 @@
 
 ## Live demo
 
-[Orbit app](https://)
+[Orbit app](https://yuriy-feedback.herokuapp.com/)
 
 ## Deployment
 
@@ -73,7 +73,7 @@ To start with clean database use:
 
 ## Attribution
 
-Special thanks to Scillshare video course
+Special thanks to Skillshare's video course Ruby on Rails A Beginners Guide to Web Development with Rails
 
 ## 🤝 Contributing
 
