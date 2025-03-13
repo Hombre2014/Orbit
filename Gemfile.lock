@@ -115,7 +115,7 @@ GEM
     execjs (2.8.1)
     ffi (1.17.1-x86_64-linux-gnu)
     formatador (1.1.0)
-    globalid (1.0.0)
+    globalid (1.0.1)
       activesupport (>= 5.0)
     guard (2.18.0)
       formatador (>= 0.2.4)
